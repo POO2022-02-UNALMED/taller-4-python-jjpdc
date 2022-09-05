@@ -30,3 +30,5 @@ if __name__ == "__main__":
     print(Grupo.grado)
     Grupo.asignarNombre()
     print(Grupo.grado)
+    
+    
